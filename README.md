@@ -1,5 +1,7 @@
 # SCUT_OPTIMIZE
 
+2023年暑假编译系统设计大赛编译器开发项目
+
 # Installation
 
 ### Requirements
